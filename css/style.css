@@ -46,11 +46,10 @@ nav{
 
 .mobile-menu{
     display: none;
-    width: 32px;
-    height: 2px;
+    size: 5cm;
     margin: 8px;
-    background-color: #fff;
-
+    color: #ffff;
+    font-size: 2rem;
 }
 
 
